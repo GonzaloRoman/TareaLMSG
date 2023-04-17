@@ -1,4 +1,4 @@
-# CARACTERÍSTICAS SOBRE MÓVILES Y TABLETS
+# CARACTERÍSTICAS SOBRE MÓVILES
 Bienvenidos a esta nueva página web, en esta nueva versión de la página veremos diferentes opiniones y características sobre los diferentes móviles del mercado actual junto a sus respectivos precios
 ## ENLACES DE UTILIDAD:
 [Página oficial de Apple](https://www.apple.com/es) - aquí puedes buscar toda la información sobre todos los productos de Apple
@@ -6,8 +6,8 @@ Bienvenidos a esta nueva página web, en esta nueva versión de la página verem
 -----------------
 -----------------
 ## Nuestras webs:
-[Tecnología](index.md) - Información reciente sobre las diferentes marcas y sus nuevos productos
-[Tablets](tablets.md) - Mejores tablets del momento y sus características
+[Tecnología](./index.md) - Información reciente sobre las diferentes marcas y sus nuevos productos
+[Tablets](./tablets.md) - Mejores tablets del momento y sus características
 ---------------
 ---------------
 ### NOVEDAD: Nueva Saga Apple

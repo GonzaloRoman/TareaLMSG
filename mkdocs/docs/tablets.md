@@ -1,4 +1,4 @@
-# CARACTERÍSTICAS SOBRE MÓVILES Y TABLETS
+# CARACTERÍSTICAS SOBRE TABLETS
 Bienvenidos a esta nueva página web, en esta nueva versión de la página veremos diferentes opiniones y características sobre los diferentes móviles del mercado actual junto a sus respectivos precios
 ## ENLACES DE UTILIDAD:
 [Página oficial de Apple](https://www.apple.com/es) - aquí puedes buscar toda la información sobre todos los productos de Apple
@@ -13,8 +13,8 @@ En esta nueva saga de Apple podemos descubrir nuevas características que podemo
 * [Características iPad Pro 2023](https://www.apple.com/es/ipad-pro/specs/) 
 --------------------
 ## Nuestras webs:
-[Móviles](moviles.md) - Mejores móviles del momento y sus características
-[Tecnología](index.md) - Información reciente sobre las diferentes marcas y sus nuevos productos
+[Móviles](./moviles.md) - Mejores móviles del momento y sus características
+[Tecnología](./index.md) - Información reciente sobre las diferentes marcas y sus nuevos productos
 ---------------
 ---------------
 ## Mejores tablets disponibles actualmente
